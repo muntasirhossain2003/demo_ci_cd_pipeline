@@ -1,0 +1,14 @@
+{
+  "name": "ci-cd-demo-node",
+  "version": "1.0.0",
+  "description": "A beginner-friendly Node.js project to demonstrate CI/CD with GitHub Actions.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js",
+    "build": "node build.js"
+  },
+  "keywords": ["ci", "cd", "github-actions", "nodejs"],
+  "author": "",
+  "license": "ISC"
+}
